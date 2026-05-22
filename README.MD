@@ -273,7 +273,7 @@ allowing servers to build fully custom crafting ecosystems.
 ---
 
 <p align="center">
-  <img src="./images/customitems.png" width="100%">
+  <img src="./images/customitems.gif" width="100%">
 </p>
 
 <p align="center">
